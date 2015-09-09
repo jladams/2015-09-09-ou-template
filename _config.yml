@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "https://github.com/jladams/2015-09-09-ou-template"
-workshop_site   : "http://jladams.github.io/2015-09-09-ou-test"
+workshop_site   : "http://jladams.github.io/2015-09-09-ou-template"
 #--------------------------------------------------------------------------------
 # Standard Software Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
